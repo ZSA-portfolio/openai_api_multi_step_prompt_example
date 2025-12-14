@@ -21,3 +21,8 @@ Step 4 - Evaluate the pros and cons for each destination.
 
 response = get_response(prompt)
 print(response)
+
+## Potential Improvements
+- Ask clarifying questions before suggesting destinations
+- Introduce budget or time constraints
+- Require outputs in a comparison table format
